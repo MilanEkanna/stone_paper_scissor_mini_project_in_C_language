@@ -1,5 +1,6 @@
 /*------------------------------------------   MINI PROJECT - ROCK PAPER SCISSOR GAME   -------------------------------------------*/
 
+
 #include <stdio.h>
 #include <stdlib.h> //As we used -> <time.h>...
 #include <time.h>   //As we used -> srand(time(0))...
